@@ -9,6 +9,7 @@ def subtract(x, y):
 def multiply(x, y):  # New function
     """Multiplies two numbers and returns the result."""
     return x * y
+    
 
 def divide(a, b):
     return a / b
@@ -16,3 +17,5 @@ def divide(a, b):
 # New feature: Power function
 def power(a, b):
     return a ** b
+
+# added new empty line
